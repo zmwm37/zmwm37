@@ -14,7 +14,7 @@
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
 </p>
   
-<h3> Topics that interest me <h3/>
+<h3> Topics that interest me </h3>
   <ul>
     <li>Machine Learning</li>
     <li>
