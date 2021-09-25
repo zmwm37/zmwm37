@@ -3,7 +3,7 @@
 <p> This page is 🚧 UNDER CONSTRUCTION 🚧 and is not complete. Please come back soon to learn more about me!
   
 <p>
-  I'm Zander, a <a href = 'https://capp.uchicago.edu/'>Computer Science/Public Policy<a> grad student at the University of Chicago and prior data science consultant at Deloitte.
+  I'm Zander, a <a href = 'https://capp.uchicago.edu/'>Computer Science/Public Policy<a> grad student at the University of Chicago and prior data science consultant at Deloitte 🟢.
 </p>
 <h3>Things I code with</h3>
 <p>
@@ -15,5 +15,13 @@
 </p>
   
 <h3> Topics that interest me <h3/>
-  <p>🚧 UNDER CONSTRUCTION 🚧</p>
+  <ul>
+    <li>Machine Learning</li>
+    <li>
+      <a href = "https://github.com/zmwm37/aoty"> Graph Analytics</li>
+    <li> 
+      <a href = "https://github.com/zmwm37/fair-ml">Fair ML & Algorithmic Bias</a>
+     </li>
+    <li>Data Visualization</li>
+  </ul>
   
