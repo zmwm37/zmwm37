@@ -14,7 +14,7 @@
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
 </p>
   
-<h3> Topics that interest me </h3>
+<h3>Topics that interest me</h3>
   <ul>
     <li>Machine Learning</li>
     <li>
@@ -24,4 +24,16 @@
      </li>
     <li>Data Visualization</li>
   </ul>
+  
+  <h3>Publications</h3>
+  <ul>
+    <li>
+      <a href = "https://www.researchgate.net/publication/308536467_Uprooting_or_Sowing_Violence_Coca_Eradication_and_Guerrilla_Violence_in_Colombia">
+        "Uprooting or Sowing Violence?: Coca Eradication & Guerrilla Violence in Colombia."
+      </a> 
+      <i> 
+        Studies in Conflict in Terrorism
+      </i>
+      Volume 40, Issue 9 (July 2017). 
+    </li>
   
