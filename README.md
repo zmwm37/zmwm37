@@ -1,16 +1,19 @@
-<h1> Hello visitor! Thanks for visiting my GitHub.</h1>
-
-<p> This page is 🚧 UNDER CONSTRUCTION 🚧 and is not complete. Please come back soon to learn more about me!
+<h1> Hello web traveler! 🚀 Thanks for visiting my GitHub.</h1>
   
 <p>
-  I'm Zander, a <a href = 'https://capp.uchicago.edu/'>Computer Science/Public Policy<a> grad student at the University of Chicago and prior data science consultant at Deloitte 🟢.
+ I'm Zander, a <a href = 'https://capp.uchicago.edu/'>Computer Science/Public Policy<a> grad student at the University of Chicago and prior data science consultant at Deloitte 🟢.
+
+I am passionate about combining data and analytics into products that improve people's lives.
 </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt ="R" src = "https://img.shields.io/badge/%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-R-blue" />
-  <img alt="Python" src = "https://img.shields.io/badge/%F0%9F%90%8D-Python-green" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+  <img alt ="R" src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=30" />
+  <img alt="Python" src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="Git" src = "https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src = "https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white&style=for-the-badge" />
+  <img alt="neo4j" src = "https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge" />
 </p>
   
 <h3>Topics that interest me</h3>
