@@ -17,14 +17,22 @@ I am passionate about combining data and analytics into products that improve pe
 </p>
   
 <h3>Topics that interest me</h3>
+<ul>
+  <li>Machine Learning</li>
+  <li>
+    <a href = "https://github.com/zmwm37/aoty"> Graph Analytics</li>
+  <li> 
+    <a href = "https://github.com/zmwm37/fair-ml">Fair ML & Algorithmic Bias</a>
+   </li>
+  <li>Data Visualization</li>
+</ul>
+ 
+  <h3>What I'm working on now</h3>
   <ul>
-    <li>Machine Learning</li>
+    <li>Learning Python 🐍</li>
     <li>
-      <a href = "https://github.com/zmwm37/aoty"> Graph Analytics</li>
-    <li> 
-      <a href = "https://github.com/zmwm37/fair-ml">Fair ML & Algorithmic Bias</a>
-     </li>
-    <li>Data Visualization</li>
+      <a href = "https://github.com/zmwm37/advent-of-code">Advent of Code 🎄💻</a>
+    </li>
   </ul>
   
   <h3>Publications</h3>
