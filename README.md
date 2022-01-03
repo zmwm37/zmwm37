@@ -46,6 +46,5 @@ I am passionate about combining data and analytics into products that improve pe
       </i>
       Volume 40, Issue 9 (July 2017). 
     </li>
-    
-<div class="embedly-responsive" style="position: relative;padding-bottom: 78.2227%;height: 0;overflow: hidden;"><iframe class="embedly-embed" frameborder="0" scrolling="no" allowfullscreen src="https://cdn.embedly.com/widgets/media.html?src=https://www.relive.cc/view/vRO7VrdPAKv/widget?r=embed-site&url=https://www.relive.cc/view/vRO7VrdPAKv?r=embed-site&image=https://www.relive.cc/view/vRO7VrdPAKv/png?x-ref=embed-site&key=f1631a41cb254ca5b035dc5747a5bd75&type=text/html&schema=relive" width="1024" height="801" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></iframe></div>
+  </ul>
   
