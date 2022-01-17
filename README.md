@@ -30,9 +30,20 @@ I am passionate about combining data and analytics into products that improve pe
   <h3>What I'm working on now</h3>
   <ul>
     <li>Learning Python 🐍</li>
+    <ul>
+      <li>Current Topic ⏰: Hash Tables & Markov Models</li>
+    </ul>
     <li>
       <a href = "https://github.com/zmwm37/advent-of-code">Advent of Code 🎄💻</a>
     </li>
+  </ul>
+  
+  <h3>Recent Projects</h3>
+  <i>Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request</i>
+  <ul>
+    <li>NLP of Poltiical Tweets</li>
+    <li>Polling Precinct Simualtion</li>
+    <li>Treemap Algorithm Implementation</li>
   </ul>
   
   <h3>Publications</h3>
