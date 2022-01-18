@@ -43,7 +43,7 @@ I am passionate about combining data and analytics into products that improve pe
   <ul>
     <li>NLP of Poltiical Tweets</li>
     <li>Polling Precinct Simualtion</li>
-    <li>Treemap Algorithm Implementation</li>
+    <li>Recursive Treemap Algorithm Implementation</li>
   </ul>
   
   <h3>Publications</h3>
