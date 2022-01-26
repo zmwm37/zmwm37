@@ -31,7 +31,7 @@ I am passionate about combining data and analytics into products that improve pe
   <ul>
     <li>Learning Python 🐍</li>
     <ul>
-      <li>Current Topic ⏰: Hash Tables & Markov Models</li>
+      <li>Current Topic ⏰:Web Scraping & Web Crawlers with Beautiful Soup 💁🏻‍♂️ 🍜</li>
     </ul>
     <li>
       <a href = "https://github.com/zmwm37/advent-of-code">Advent of Code 🎄💻</a>
@@ -44,6 +44,7 @@ I am passionate about combining data and analytics into products that improve pe
     <li>NLP of Poltiical Tweets</li>
     <li>Polling Precinct Simualtion</li>
     <li>Recursive Treemap Algorithm Implementation</li>
+    <li>Markov Models for Text Attribution</li>
   </ul>
   
   <h3>Publications</h3>
