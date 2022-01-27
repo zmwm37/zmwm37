@@ -32,10 +32,12 @@ I am passionate about combining data and analytics into products that improve pe
     <li>Learning Python 🐍</li>
     <ul>
       <li>Current Topic ⏰:Web Scraping & Web Crawlers with Beautiful Soup 💁🏻‍♂️ 🍜</li>
-    </ul>
-    <li>
-      <a href = "https://github.com/zmwm37/advent-of-code">Advent of Code 🎄💻</a>
-    </li>
+      <li>
+        <a href = 'https://github.com/zmwm37/wordle-wodel'>Wordle Algorithm (Under Construction 🚧)</a>
+      </li>
+      <li>
+        <a href = "https://github.com/zmwm37/advent-of-code">Advent of Code 🎄💻</a>
+      </li>
   </ul>
   
   <h3>Recent Projects</h3>
