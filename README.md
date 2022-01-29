@@ -47,6 +47,7 @@ I am passionate about combining data and analytics into products that improve pe
     <li>Polling Precinct Simualtion</li>
     <li>Recursive Treemap Algorithm Implementation</li>
     <li>Markov Models for Text Attribution</li>
+    <li>Web Scraping & Web Crawlers with Beautiful Soup 💁🏻‍♂️ 🍜</li>
   </ul>
   
   <h3>Publications</h3>
