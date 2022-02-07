@@ -31,7 +31,7 @@ I am passionate about combining data and analytics into products that improve pe
   <ul>
     <li>Learning Python 🐍</li>
     <ul>
-      <li>Current Topic ⏰:Web Scraping & Web Crawlers with Beautiful Soup 💁🏻‍♂️ 🍜</li>
+      <li>Current Topic ⏰:Basic Search Engine Backend with SQLite 🪶</li>
       <li>
         <a href = 'https://github.com/zmwm37/wordle-wodel'>Wordle Algorithm (Under Construction 🚧)</a>
       </li>
@@ -57,7 +57,7 @@ I am passionate about combining data and analytics into products that improve pe
         "Uprooting or Sowing Violence?: Coca Eradication & Guerrilla Violence in Colombia."
       </a> 
       <i> 
-        Studies in Conflict in Terrorism
+        Studies in Conflict & Terrorism
       </i>
       Volume 40, Issue 9 (July 2017). 
     </li>
