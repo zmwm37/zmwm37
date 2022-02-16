@@ -31,7 +31,7 @@ I am passionate about combining data and analytics into products that improve pe
   <ul>
     <li>Learning Python 🐍</li>
     <ul>
-      <li>Current Topic ⏰:Basic Search Engine Backend with SQLite 🪶</li>
+      <li>Current Topic ⏰: Recording Linkage Algorithm</li>
       <li>
         <a href = 'https://github.com/zmwm37/wordle-wodel'>Wordle Algorithm (Under Construction 🚧)</a>
       </li>
@@ -48,6 +48,7 @@ I am passionate about combining data and analytics into products that improve pe
     <li>Recursive Treemap Algorithm Implementation</li>
     <li>Markov Models for Text Attribution</li>
     <li>Web Scraping & Web Crawlers with Beautiful Soup 💁🏻‍♂️ 🍜</li>
+    <li>Basic Search Engine Backend with SQLite 🪶</li>
   </ul>
   
   <h3>Publications</h3>
