@@ -35,7 +35,6 @@ I am passionate about combining data and analytics into products that improve pe
     <ul>
       <li>Current Topic ⏰: Record Linkage Algorithm</li>
     </ul>
-    <
     <li>Side Projects</li>
     <ul>
       <li>
