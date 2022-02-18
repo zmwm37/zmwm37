@@ -20,7 +20,9 @@ I am passionate about combining data and analytics into products that improve pe
 <ul>
   <li>Machine Learning</li>
   <li>
-    <a href = "https://github.com/zmwm37/aoty"> Graph Analytics</li>
+    <a href = "https://github.com/zmwm37/aoty"> Graph Analytics,/a>
+  </li>
+  <li>Natural Language Processing</li>
   <li> 
     <a href = "https://github.com/zmwm37/fair-ml">Fair ML & Algorithmic Bias</a>
    </li>
@@ -31,7 +33,7 @@ I am passionate about combining data and analytics into products that improve pe
   <ul>
     <li>Learning Python 🐍</li>
     <ul>
-      <li>Current Topic ⏰: Recording Linkage Algorithm</li>
+      <li>Current Topic ⏰: Record Linkage Algorithm</li>
       <li>
         <a href = 'https://github.com/zmwm37/wordle-wodel'>Wordle Algorithm (Under Construction 🚧)</a>
       </li>
