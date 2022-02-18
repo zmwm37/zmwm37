@@ -34,10 +34,11 @@ I am passionate about combining data and analytics into products that improve pe
     <li>School Projects 👨🏻‍🏫</li>
     <ul>
       <li>Current Topic ⏰: Record Linkage Algorithm</li>
-      <li>
     </ul>
+    <
     <li>Side Projects</li>
     <ul>
+      <li>
         <a href = 'https://github.com/zmwm37/wordle-wodel'>Wordle Algorithm (Under Construction 🚧)</a>
       </li>
       <li>
