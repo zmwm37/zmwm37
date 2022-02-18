@@ -73,4 +73,7 @@ I am passionate about combining data and analytics into products that improve pe
     </li>
   </ul>
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zmwm37.zmwm37&left_color=green)
+[![Visits Badge](https://badges.pufler.dev/visits/zmwm37/zmwm37)](https://badges.pufler.dev)
+
+  
+  <i>Credit to <a href='https://github.com/abhisheknaiidu/awesome-github-profile-readme'>this page</a> for helping me create this profile!</i>
