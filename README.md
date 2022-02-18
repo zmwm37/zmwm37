@@ -20,7 +20,7 @@ I am passionate about combining data and analytics into products that improve pe
 <ul>
   <li>Machine Learning</li>
   <li>
-    <a href = "https://github.com/zmwm37/aoty"> Graph Analytics,/a>
+    <a href = "https://github.com/zmwm37/aoty"> Graph Analytics</a>
   </li>
   <li>Natural Language Processing</li>
   <li> 
