@@ -31,15 +31,19 @@ I am passionate about combining data and analytics into products that improve pe
  
   <h3>What I'm working on now</h3>
   <ul>
-    <li>Learning Python 🐍</li>
+    <li>School Projects 👨🏻‍🏫</li>
     <ul>
       <li>Current Topic ⏰: Record Linkage Algorithm</li>
       <li>
+    </ul>
+    <li>Side Projects</li>
+    <ul>
         <a href = 'https://github.com/zmwm37/wordle-wodel'>Wordle Algorithm (Under Construction 🚧)</a>
       </li>
       <li>
         <a href = "https://github.com/zmwm37/advent-of-code">Advent of Code 🎄💻</a>
       </li>
+    </ul>
   </ul>
   
   <h3>Recent Projects</h3>
