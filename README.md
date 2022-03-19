@@ -36,8 +36,7 @@ I am passionate about combining data and analytics into products that improve pe
   <ul>
     <li>School Projects 👨🏻‍🏫</li>
     <ul>
-      <li>Django</li>
-      <li>Classification Trees</li>
+      <li>Spring Break!</li>
     </ul>
     <li>Side Projects</li>
     <ul>
@@ -60,6 +59,8 @@ I am passionate about combining data and analytics into products that improve pe
     <li>Web Scraping & Web Crawlers with Beautiful Soup 💁🏻‍♂️ 🍜</li>
     <li>Basic Search Engine Backend with SQLite 🪶</li>
     <li>Record Linkage Algorithms</li>
+    <li>Classification Trees</li>
+    <li>Plotly Dash App</li>
   </ul>
   
   <h3>Publications</h3>
