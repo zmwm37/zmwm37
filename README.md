@@ -36,7 +36,7 @@ I am passionate about combining data and analytics into products that improve pe
   <ul>
     <li>School Projects 👨🏻‍🏫</li>
     <ul>
-      <li>Spring Break!</li>
+      <li>ML: Decision Trees & K-Nearest Neighbors</li>
     </ul>
     <li>Side Projects</li>
     <ul>
