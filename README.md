@@ -36,7 +36,7 @@ I am passionate about combining data and analytics into products that improve pe
   <ul>
     <li>School Projects 👨🏻‍🏫</li>
     <ul>
-      <li>ML: Decision Trees & K-Nearest Neighbors</li>
+      <li>ML: Perceptrons & Logistic Regression</li>
     </ul>
     <li>Side Projects</li>
     <ul>
@@ -59,7 +59,7 @@ I am passionate about combining data and analytics into products that improve pe
     <li>Web Scraping & Web Crawlers with Beautiful Soup 💁🏻‍♂️ 🍜</li>
     <li>Basic Search Engine Backend with SQLite 🪶</li>
     <li>Record Linkage Algorithms</li>
-    <li>Classification Trees</li>
+    <li>Classification Algorithms - Decision Trees, K-Nearest Neighbors, Perceptrons, Logistic Regression</li>
     <li>Plotly Dash App</li>
   </ul>
   
