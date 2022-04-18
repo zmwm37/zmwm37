@@ -26,7 +26,9 @@ I am passionate about combining data and analytics into products that improve pe
   <li> 
     <a href = "https://github.com/zmwm37/fair-ml">Fair ML & Algorithmic Bias</a>
    </li>
-  <li>Data Visualization</li>
+  <li>
+    <a href='https://github.com/zmwm37/disaster-aid-dash'>Data Visualization</a>
+  </li>
   <p>
     <img width="300" src="https://github.com/zmwm37/dataVizPractice/blob/master/runTrainingViz.gif">
   </p>
