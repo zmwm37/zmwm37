@@ -38,7 +38,8 @@ I am passionate about combining data and analytics into products that improve pe
   <ul>
     <li>School Projects 👨🏻‍🏫</li>
     <ul>
-      <li>ML: Perceptrons & Logistic Regression</li>
+      <li>Neural Networks</li>
+      <li>REST Database API</li>
     </ul>
     <li>Side Projects</li>
     <ul>
@@ -63,6 +64,7 @@ I am passionate about combining data and analytics into products that improve pe
     <li>Record Linkage Algorithms</li>
     <li>Classification Algorithms - Decision Trees, K-Nearest Neighbors, Perceptrons, Logistic Regression</li>
     <li>Plotly Dash App</li>
+    <li>ML: Perceptrons & Logistic Regression</li>
   </ul>
   
   <h3>Publications</h3>
