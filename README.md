@@ -7,8 +7,8 @@ I am passionate about combining data and analytics into products that improve pe
 </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt ="R" src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=30" />
   <img alt="Python" src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt ="R" src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=30" />
   <img alt="Git" src = "https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src = "https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
@@ -37,17 +37,14 @@ I am passionate about combining data and analytics into products that improve pe
   <h3>What I'm working on now</h3>
   <ul>
     <li>School Projects 👨🏻‍🏫</li>
-    <ul>
-      <li>Neural Networks</li>
-      <li>REST Database API</li>
+    <ul>😎 summer break </ul>
+      
+
     </ul>
-    <li>Side Projects</li>
+  <li><a href='https://chicagohai.github.io'>Chicago Human + AI (CHAI) Lab</a></li>
     <ul>
       <li>
-        <a href = 'https://github.com/zmwm37/wordle-wodel'>Wordle Algorithm (Under Construction 🚧)</a>
-      </li>
-      <li>
-        <a href = "https://github.com/zmwm37/advent-of-code">Advent of Code 🎄💻</a>
+        NLP Analysis of Divisiveness in Political Speech
       </li>
     </ul>
   </ul>
@@ -64,7 +61,7 @@ I am passionate about combining data and analytics into products that improve pe
     <li>Record Linkage Algorithms</li>
     <li>Classification Algorithms - Decision Trees, K-Nearest Neighbors, Perceptrons, Logistic Regression</li>
     <li>Plotly Dash App</li>
-    <li>ML: Perceptrons & Logistic Regression</li>
+    <li>REST Database API</li>
   </ul>
   
   <h3>Publications</h3>
