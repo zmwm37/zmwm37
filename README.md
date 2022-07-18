@@ -38,15 +38,10 @@ I am passionate about combining data and analytics into products that improve pe
   <ul>
     <li>School Projects 👨🏻‍🏫</li>
     <ul>😎 summer break </ul>
-      
-
-    </ul>
-  <li><a href='https://chicagohai.github.io'>Chicago Human + AI (CHAI) Lab</a></li>
-    <ul>
-      <li>
-        NLP Analysis of Divisiveness in Political Speech
-      </li>
-    </ul>
+    <li><a href='https://chicagohai.github.io'>Chicago Human + AI (CHAI) Lab</a></li>
+      <ul>
+        <li>NLP Analysis of Divisiveness in Political Speech</li>
+      </ul>
   </ul>
   
   <h3>Recent Projects</h3>
