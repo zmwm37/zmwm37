@@ -1,7 +1,7 @@
 <h1> Hello web traveler! 🚀 Thanks for visiting my GitHub.</h1>
   
 <p>
- I'm Zander, a <a href = 'https://capp.uchicago.edu/'>Computer Science/Public Policy<a> grad student at the University of Chicago and research assitant in the <a href='https://chicagohai.github.io/'>Chicago Human + AI (CHAI) Lab</a>. Previously, I was a data science/data engineering consultant at Deloitte 🟢, where I will be returning after graduation.
+ I'm Zander, a <a href = 'https://capp.uchicago.edu/'>Computer Science/Public Policy<a> grad student at the University of Chicago and research assistant in the <a href='https://chicagohai.github.io/'>Chicago Human + AI (CHAI) Lab</a>. Previously, I was a data science/data engineering consultant at Deloitte 🟢, where I will be returning after graduation.
 
 I am passionate about combining data and analytics into products that improve people's lives.
 </p>
