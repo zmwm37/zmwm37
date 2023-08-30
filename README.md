@@ -40,7 +40,10 @@ I am passionate about combining data and analytics into products that improve pe
 </ul>
 
   <h3>Featured Projects</h3>
-  <i>Coming soon</i>
+      <ul>
+        <li><a href='https://github.com/zmwm37/music-recommendation'>Music Recommendation Algorithm</a>: implemented two recommendation algorithms from scratch and evaluated on music album dataset.</li>
+        <li>Parallelizing Co-occurrence Matrices: implemented an algorithm from scratch to calculate a co-occurence matrix from a set of documents in parallel and evaluated performance across different core configurations.</li>
+      </ul>
   <h3>What I'm working on now</h3>
   <ul>
     <li><a href='https://chicagohai.github.io'>Chicago Human + AI (CHAI) Lab</a></li>
@@ -51,6 +54,10 @@ I am passionate about combining data and analytics into products that improve pe
   
   <!-- 
   <h3>Recent Projects</h3> 
+  <ul>
+    <li><a href='https://github.com/zmwm37/music-recommendation'>Music Recommendation Algorithm</a>: implemented two recommendation algorithms from scratch and evaluated on music album dataset.</li>
+    <li>Parallelizing Co-occurrence Matrices
+  </ul>
   <i>Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request</i>
   <ul>
     <li>Music Recommendation Algorithm</li>
