@@ -11,10 +11,12 @@ I am passionate about combining data and analytics into products that improve pe
   <img alt="Go" src = "https://img.shields.io/badge/-Go-59B9AF?logo=go&logoColor=white&style=for-the-badge" />
   <img alt ="R" src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=30" />
   <img alt="Git" src = "https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <!--
   <img alt="JavaScript" src = "https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white&style=for-the-badge" />
-  <img alt="neo4j" src = "https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge" />
+  -->
+  <img alt="neo4j" src = "https://img.shields.io/badge/-Neo4j-479EF8?logo=neo4j&logoColor=white&style=for-the-badge" />
 </p>
 
 <h3>Topics that interest me</h3>
@@ -23,9 +25,11 @@ I am passionate about combining data and analytics into products that improve pe
   <li>
     <a href = "https://github.com/zmwm37/aoty"> Graph Analytics</a>
   </li>
-  <li>Natural Language Processing</li>
+  <li>Human + AI Interaction</li>
+  <li>Natural Language Processing</li>  
+  <li>Parallel Computing</li>  
   <li> 
-    <a href = "https://github.com/zmwm37/fair-ml">Fair ML & Algorithmic Bias</a>
+    <a href = "https://github.com/zmwm37/fair-ml">AI Ethics</a>
    </li>
   <li>
     <a href='https://github.com/zmwm37/disaster-aid-dash'>Data Visualization</a>
