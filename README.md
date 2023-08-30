@@ -1,7 +1,7 @@
 <h1> Hello web traveler! 🚀 Thanks for visiting my GitHub.</h1>
   
 <p>
- I'm Zander, a data scientist at Deloitte Consulting 🟢 where I help government agencies implement the latest in AI technology. I'm also an alum of the  <a href = 'https://capp.uchicago.edu/'>Computational Analysis & Public Policy (CAPP) program<a>at the University of Chicago and a research assistant in the <a href='https://chicagohai.github.io/'>Chicago Human + AI (CHAI) Lab</a>.
+ I'm Zander, a data scientist at Deloitte Consulting 🟢 where I help government agencies implement the latest in AI technology. I'm also an alum of the  <a href = 'https://capp.uchicago.edu/'>Computational Analysis & Public Policy (CAPP) program<a> at the University of Chicago and a research assistant in the <a href='https://chicagohai.github.io/'>Chicago Human + AI (CHAI) Lab</a>.
 
 I am passionate about combining data and analytics into products that improve people's lives.
 </p>
@@ -38,7 +38,9 @@ I am passionate about combining data and analytics into products that improve pe
     <img width="300" src="https://github.com/zmwm37/dataVizPractice/blob/master/runTrainingViz.gif">
   </p>
 </ul>
- 
+
+  <h3>Featured Projects</h3>
+  <i>Coming soon</i>
   <h3>What I'm working on now</h3>
   <ul>
     <li><a href='https://chicagohai.github.io'>Chicago Human + AI (CHAI) Lab</a></li>
