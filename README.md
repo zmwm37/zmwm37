@@ -1,13 +1,14 @@
 <h1> Hello web traveler! 🚀 Thanks for visiting my GitHub.</h1>
   
 <p>
- I'm Zander, a <a href = 'https://capp.uchicago.edu/'>Computer Science/Public Policy<a> grad student at the University of Chicago and research assistant in the <a href='https://chicagohai.github.io/'>Chicago Human + AI (CHAI) Lab</a>. Previously, I was a data science/data engineering consultant at Deloitte 🟢, where I will be returning after graduation.
+ I'm Zander, a data scientist at Deloitte Consulting 🟢 where I help government agencies implement the latest in AI technology. I'm also an alum of the  <a href = 'https://capp.uchicago.edu/'>Computational Analysis & Public Policy (CAPP) program<a>at the University of Chicago and a research assistant in the <a href='https://chicagohai.github.io/'>Chicago Human + AI (CHAI) Lab</a>.
 
 I am passionate about combining data and analytics into products that improve people's lives.
 </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="Go" src = "https://img.shields.io/badge/-Go-3776AB?logo=go&logoColor=white&style=for-the-badge" />
   <img alt ="R" src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=30" />
   <img alt="Git" src = "https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src = "https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
@@ -15,7 +16,7 @@ I am passionate about combining data and analytics into products that improve pe
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white&style=for-the-badge" />
   <img alt="neo4j" src = "https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge" />
 </p>
-  
+
 <h3>Topics that interest me</h3>
 <ul>
   <li>Machine Learning</li>
@@ -36,15 +37,14 @@ I am passionate about combining data and analytics into products that improve pe
  
   <h3>What I'm working on now</h3>
   <ul>
-    <li>School Projects 👨🏻‍🏫</li>
-    <ul>TBD</ul>
     <li><a href='https://chicagohai.github.io'>Chicago Human + AI (CHAI) Lab</a></li>
       <ul>
         <li>NLP Analysis of Divisiveness in Political Speech</li>
       </ul>
   </ul>
   
-  <h3>Recent Projects</h3>
+  <!-- 
+  <h3>Recent Projects</h3> 
   <i>Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request</i>
   <ul>
     <li>Music Recommendation Algorithm</li>
@@ -59,6 +59,7 @@ I am passionate about combining data and analytics into products that improve pe
     <li>Plotly Dash App</li>
     <li>REST Database API</li>
   </ul>
+  -->
   
   <h3>Publications</h3>
   <ul>
