@@ -1,9 +1,9 @@
 <h1> Hello web traveler! 🚀 Thanks for visiting my GitHub.</h1>
   
 <p>
- I'm Zander, a data scientist at Deloitte Consulting 🟢 where I help government agencies implement the latest in AI technology. I'm also an alum of the  <a href = 'https://capp.uchicago.edu/'>Computational Analysis & Public Policy (CAPP) program<a> at the University of Chicago and a research assistant in the <a href='https://chicagohai.github.io/'>Chicago Human + AI (CHAI) Lab</a>.
+ I'm Zander, a senior data scientist at Deloitte Consulting 🟢 where I help government agencies implement the latest in AI technology. I'm also an alum of the  <a href = 'https://capp.uchicago.edu/'>Computational Analysis & Public Policy (CAPP) program<a> at the University of Chicago and a research assistant in the <a href='https://chicagohai.github.io/'>Chicago Human + AI (CHAI) Lab</a>.
 
-I am passionate about combining data and analytics into products that improve people's lives.
+I am passionate about combining machine learning and natural language processing techniques to help people better understand the world around them. 
 </p>
 <h3>Things I code with</h3>
 <p>
@@ -22,21 +22,11 @@ I am passionate about combining data and analytics into products that improve pe
 <h3>Topics that interest me</h3>
 <ul>
   <li>Machine Learning</li>
-  <li>
-    <a href = "https://github.com/zmwm37/aoty"> Graph Analytics</a>
-  </li>
   <li>Human + AI Interaction</li>
-  <li>Natural Language Processing</li>  
-  <li>Parallel Computing</li>  
-  <li> 
-    <a href = "https://github.com/zmwm37/fair-ml">AI Ethics</a>
-   </li>
-  <li>
-    <a href='https://github.com/zmwm37/disaster-aid-dash'>Data Visualization</a>
-  </li>
-  <p>
-    <img width="300" src="https://github.com/zmwm37/dataVizPractice/blob/master/runTrainingViz.gif">
-  </p>
+  <li>Natural Language Processing</li>
+  <li>Generative AI / Large Language Modles</li>
+  <li>Parallel Computing</li> 
+  <li>Cloud Computing</li> 
 </ul>
 
   <h3>Featured Projects</h3>
@@ -44,6 +34,7 @@ I am passionate about combining data and analytics into products that improve pe
         <li><a href='https://github.com/zmwm37/music-recommendation'>Music Recommendation Algorithm</a>: implemented two recommendation algorithms from scratch and evaluated on music album dataset.</li>
         <li>Parallelizing Co-occurrence Matrices: implemented an algorithm from scratch to calculate a co-occurence matrix from a set of documents in parallel and evaluated performance across different core configurations.</li>
       </ul>
+  <!-- 
   <h3>What I'm working on now</h3>
   <ul>
     <li><a href='https://chicagohai.github.io'>Chicago Human + AI (CHAI) Lab</a></li>
@@ -51,6 +42,7 @@ I am passionate about combining data and analytics into products that improve pe
         <li>NLP Analysis of Divisiveness in Political Speech</li>
       </ul>
   </ul>
+   -->
   
   <!-- 
   <h3>Recent Projects</h3> 
@@ -76,6 +68,15 @@ I am passionate about combining data and analytics into products that improve pe
   
   <h3>Publications</h3>
   <ul>
+    <li>
+      <a href = "[https://www.researchgate.net/publication/308536467_Uprooting_or_Sowing_Violence_Coca_Eradication_and_Guerrilla_Violence_in_Colombia](https://academic.oup.com/pnasnexus/article/3/10/pgae431/7814873)">
+        "Quantifying the uniqueness and divisiveness of presidential discourse."
+      </a> 
+      <i>
+        PNAS Nexus
+      </i>
+      Volume 3, Issue 10 (October 2024).
+    </li>
     <li>
       <a href = "https://www.researchgate.net/publication/308536467_Uprooting_or_Sowing_Violence_Coca_Eradication_and_Guerrilla_Violence_in_Colombia">
         "Uprooting or Sowing Violence?: Coca Eradication & Guerrilla Violence in Colombia."
