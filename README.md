@@ -24,7 +24,7 @@ I am passionate about combining machine learning and natural language processing
   <li>Machine Learning</li>
   <li>Human + AI Interaction</li>
   <li>Natural Language Processing</li>
-  <li>Generative AI / Large Language Modles</li>
+  <li>Generative AI / Large Language Models</li>
   <li>Parallel Computing</li> 
   <li>Cloud Computing</li> 
 </ul>
@@ -32,7 +32,7 @@ I am passionate about combining machine learning and natural language processing
   <h3>Featured Projects</h3>
       <ul>
         <li><a href='https://github.com/zmwm37/music-recommendation'>Music Recommendation Algorithm</a>: implemented two recommendation algorithms from scratch and evaluated on music album dataset.</li>
-        <li>Parallelizing Co-occurrence Matrices: implemented an algorithm from scratch to calculate a co-occurence matrix from a set of documents in parallel and evaluated performance across different core configurations.</li>
+        <li><a href='https://github.com/zmwm37/parallel-co-occurrence'>Parallelizing Co-occurrence Matrices</a>: implemented an algorithm from scratch to calculate a co-occurence matrix from a set of documents in parallel and evaluated performance across different core configurations.</li>
       </ul>
   <!-- 
   <h3>What I'm working on now</h3>
@@ -69,7 +69,7 @@ I am passionate about combining machine learning and natural language processing
   <h3>Publications</h3>
   <ul>
     <li>
-      <a href = "[https://www.researchgate.net/publication/308536467_Uprooting_or_Sowing_Violence_Coca_Eradication_and_Guerrilla_Violence_in_Colombia](https://academic.oup.com/pnasnexus/article/3/10/pgae431/7814873)">
+      <a href = "https://academic.oup.com/pnasnexus/article/3/10/pgae431/7814873">
         "Quantifying the uniqueness and divisiveness of presidential discourse."
       </a> 
       <i>
